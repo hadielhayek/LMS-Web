@@ -1,0 +1,11 @@
+.courses__container{
+  margin: 0 auto;
+  width: 90%;
+  height: 77vh;
+}
+.courses__container .add_course{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 15px;
+}

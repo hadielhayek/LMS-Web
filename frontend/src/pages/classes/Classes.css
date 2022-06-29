@@ -1,0 +1,17 @@
+.classes_container {
+  margin: 0 auto;
+  width: 90%;
+  height: 77vh;
+}
+.classes_container .add_class {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 15px;
+}
+.classes_container a:-webkit-any-link {
+  color: black;
+  cursor: pointer;
+  list-style: none;
+  text-decoration: none;
+}
